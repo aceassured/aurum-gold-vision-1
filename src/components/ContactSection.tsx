@@ -31,7 +31,7 @@ const ContactSection = () => {
               Email: <a href="mailto:info@aurumitalia.co.id" className="text-gold hover:text-gold/80 transition-colors">info@aurumitalianusantara</a>
             </p>
             <p className="text-muted-foreground font-sans text-sm mb-8">
-              Phone: <a href="tel:+628123456789" className="text-gold hover:text-gold/80 transition-colors">+62 812 3456 7890</a>
+              Phone: <a href="tel:+62 813 4833 9994" className="text-gold hover:text-gold/80 transition-colors">+62 812 3456 7890</a>
             </p>
             <p className="text-muted-foreground/60 font-sans text-xs leading-relaxed mb-4">For business and investment enquiries, please use the contact form or reach us directly via email. We welcome institutional and qualified investor dialogue.</p>
             <div className="block w-full flex-1 min-h-[180px] border border-gold/20 shadow-lg overflow-hidden relative mt-4 bg-muted/30">
